@@ -1,2 +1,2 @@
 # asserts
-CDN for asserts
+asserts
